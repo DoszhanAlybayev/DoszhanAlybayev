@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/DoszhanAlybayev">
-    <img src="https://github.com/DoszhanAlybayev.png?size=100" alt="Doszhan Alybayev Profile Picture" width="100" style="border-radius: 50%;">
-  </a>
   <h1>Привет, я Досжан! 👋</h1>
   <h3>Junior Flutter Developer</h3>
 </div>
