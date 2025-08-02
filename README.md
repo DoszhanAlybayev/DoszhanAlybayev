@@ -33,7 +33,3 @@
     * [Репозиторий](https://github.com/DoszhanAlybayev/messenger-app.git)
 
 
-
-```markdown
-[![Doszhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoszhanAlybayev&show_icons=true&theme=default)](https://github.com/DoszhanAlybayev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoszhanAlybayev&layout=compact&theme=default)](https://github.com/DoszhanAlybayev/github-readme-stats)
