@@ -36,5 +36,6 @@
 
 * **Email:** doszhanalybayev03@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/doszhan-alybayev-7849b1373/
+* **Instagram:** https://www.instagram.com/_dos1q_/
 
 
