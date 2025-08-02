@@ -32,4 +32,9 @@
 * **Приложение "Мини Мессенджер"**: Чат-приложение в реальном времени с Firebase Authentication и Firestore, включающее регистрацию, вход и приватные сообщения.
     * [Репозиторий](https://github.com/DoszhanAlybayev/messenger-app.git)
 
+### 📞 Мои контакты
+
+* **Email:** doszhanalybayev03@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/doszhan-alybayev-7849b1373/
+
 
